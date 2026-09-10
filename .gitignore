@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+.env/
+*.log
+
+# Secrets
+backend/.env
+frontend/.env
+
+# Uploads (runtime PDF storage)
+backend/uploads/
+starter-datasets/
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/build/
+node_modules/
+.npm/
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Model cache (sentence-transformers downloads models here)
+backend/.cache/

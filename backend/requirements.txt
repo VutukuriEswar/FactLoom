@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+pymupdf
+openai>=1.52.0,<2.0.0
+sentence-transformers
+torch
+numpy
+tenacity
+httpx
