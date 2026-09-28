@@ -1,5 +1,3 @@
-# FactLoom — Fact Knowledge Layer
-
 ## What is FactLoom?
 
 FactLoom is an AI-powered document intelligence platform that transforms raw PDF documents into a structured, queryable knowledge graph. It extracts concrete, verifiable facts from uploaded documents using a large language model, generates semantic embeddings for each fact, and automatically evaluates cross-document relationships — surfacing corroborations, contradictions, and contextual reconciliations between facts from different sources. The system is designed for analysts, researchers, and knowledge workers who need to reconcile information across multiple documents at scale.
